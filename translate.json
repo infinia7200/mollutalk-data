@@ -524,12 +524,12 @@
     "zh_cn" : "信息结束",
     "zh_tw" : "信息結束"
   },
-  "waterMark" : {
-    "kr" : "작성자 워터마크",
-    "en" : "Author Watermark",
-    "jp" : "作成者ウォーターマーク",
-    "zh_cn" : "作者水印",
-    "zh_tw" : "作者水印"
+  "watermark" : {
+    "kr" : "워터마크",
+    "en" : "Watermark",
+    "jp" : "ウォーターマーク",
+    "zh_cn" : "水印",
+    "zh_tw" : "水印"
   },
   "sharedFile" : {
     "kr" : "공유파일",
