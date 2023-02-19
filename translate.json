@@ -51,7 +51,7 @@
   "student" : {
     "kr" : "학생",
     "en" : "Student",
-    "jp" : "学生",
+    "jp" : "生徒",
     "zh_cn" : "学生",
     "zh_tw" : "學生"
   },
@@ -899,7 +899,7 @@
   "off_the_record_mode_comment1" : {
     "kr" : "해당 톡은 비공개 학생이 포함되어있습니다.",
     "en" : "This Talk includes off the record students.",
-    "jp" : "そのトークは、プライベートの学生が含まれています。",
+    "jp" : "そのトークは、プライベートの生徒が含まれています。",
     "zh_cn" : "那个脱口秀包含私生活学生。",
     "zh_tw" : "那個脫口秀包含私生活學生。"
   },
