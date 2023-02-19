@@ -752,14 +752,14 @@
   "error_title_size" : {
     "kr" : "타이틀은 30자까지 가능합니다.",
     "en" : "Title can be up to 30 characters long.",
-    "jp" : "タイトルは30文字まで可能です。",
+    "jp" : "タイトルは30文字まで入力可能です。",
     "zh_cn" : "题目最多可以写30个字。",
     "zh_tw" : "題目最多可以寫30個字。"
   },
   "error_series_size" : {
     "kr" : "시리즈 타이틀은 20자까지 가능합니다.",
     "en" : "Series Title can be up to 20 characters long.",
-    "jp" : "シリーズタイトルは20文字まで可能です。",
+    "jp" : "シリーズタイトルは20文字まで入力可能です。",
     "zh_cn" : "系列标题最多可包含20个字符。",
     "zh_tw" : "系列標題最多可包含20個字符。"
   },
@@ -794,7 +794,7 @@
   "image_max_comment" : {
     "kr" : "이미지는 최대 3mb까지 가능합니다.",
     "en" : "Images can be up to 3mb.",
-    "jp" : "画像は最大3mbまで可能です。",
+    "jp" : "画像は最大3MBまでアップロード可能です。",
     "zh_cn" : "图像最大可达3mb。",
     "zh_tw" : "圖像最大可達3mb。"
   },
@@ -829,7 +829,7 @@
   "nickname_comment2" : {
     "kr" : "닉네임은 최대 10글자까지 가능합니다.",
     "en" : "Nicknames can be up to 10 characters long.",
-    "jp" : "ニックネームは最大10文字まで可能です。",
+    "jp" : "ニックネームは最大10文字まで入力可能です。",
     "zh_cn" : "昵称最多可以有10个字。",
     "zh_tw" : "暱稱最多可以有10個字。"
   },
@@ -850,14 +850,14 @@
   "report_comment2" : {
     "kr" : "신고 내용은 20글자까지 가능합니다.",
     "en" : "Report content can be up to 20 characters.",
-    "jp" : "申告内容は20文字まで可能です。",
+    "jp" : "申告内容は20文字まで入力可能です。",
     "zh_cn" : "申报内容最多可以20个字。",
     "zh_tw" : "申報內容最多可以20個字。"
   },
   "delete_series_talk" : {
     "kr" : "포함된 몰루톡까지 삭제",
     "en" : "Delete even included MolluTalk",
-    "jp" : "含まれたMolluTalkまで削除",
+    "jp" : "シリーズに含まれたMolluTalkまで削除する",
     "zh_cn" : "删除至包含的 MolluTalk",
     "zh_tw" : "刪除至包含的 MolluTalk"
   },
@@ -899,14 +899,14 @@
   "off_the_record_mode_comment1" : {
     "kr" : "해당 톡은 비공개 학생이 포함되어있습니다.",
     "en" : "This Talk includes off the record students.",
-    "jp" : "そのトークは、プライベートの学生が含まれています。",
+    "jp" : "このトークは、プライベートの学生が含まれています。",
     "zh_cn" : "那个脱口秀包含私生活学生。",
     "zh_tw" : "那個脫口秀包含私生活學生。"
   },
   "off_the_record_mode_comment2" : {
     "kr" : "설정에서 비공개 모드를 활성화해주세요.",
     "en" : "Please enable Off The Record Mode in Setting.",
-    "jp" : "設定でプライベートモードを活性化してください。",
+    "jp" : "設定でプライベートモードをオンにしてください。",
     "zh_cn" : "请在设置中激活专用模式。",
     "zh_tw" : "請在設置中激活專用模式。"
   },
@@ -920,7 +920,7 @@
   "image_download" : {
     "kr" : "이미지가 다운로드 안 된 경우 해당 이미지를 다운받아주세요.",
     "en" : "If the image has not been downloaded, please download it.",
-    "jp" : "画像がダウンロードされていない場合は、その画像をダウンロードしてください。",
+    "jp" : "画像がダウンロードされない場合は、表示された画像をダウンロードしてください。",
     "zh_cn" : "如果未下载图像，请下载该图像。",
     "zh_tw" : "如果未下載圖像，請下載該圖像。"
   }
