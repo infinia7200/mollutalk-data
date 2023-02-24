@@ -23,7 +23,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5,6,7,8],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 2,
@@ -35,7 +35,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5,6,7],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 3,
@@ -47,7 +47,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5,6,7,8,9],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 4,
@@ -59,7 +59,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5,6,7],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 5,
@@ -69,9 +69,9 @@
             "zh_cn" : "奥空 绫音",
             "zh_tw" : "奧空 綾音",
             "illust" : 0,
-            "profile" : [1,2,3,4,5,6,7],
+            "profile" : [1,2,3,4,5,6,7,8],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           }
         ]
       }
@@ -101,7 +101,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 7,
@@ -113,7 +113,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 8,
@@ -125,7 +125,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 9,
@@ -135,9 +135,9 @@
             "zh_cn" : "天雨 亚子",
             "zh_tw" : "天雨 亞子",
             "illust" : 0,
-            "profile" : [1,2,3],
+            "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 10,
@@ -149,7 +149,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           }
         ]
       },
@@ -170,7 +170,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 12,
@@ -182,7 +182,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 13,
@@ -192,9 +192,9 @@
             "zh_cn" : "鬼方 佳世子",
             "zh_tw" : "鬼方 佳世子",
             "illust" : 0,
-            "profile" : [1,2,3],
+            "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 14,
@@ -206,7 +206,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           }
         ]
       },
@@ -225,9 +225,9 @@
             "zh_cn" : "狮子堂 泉",
             "zh_tw" : "獅子堂 泉",
             "illust" : 0,
-            "profile" : [1,2,3,4,5],
+            "profile" : [1,2,3,4,5,6],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 16,
@@ -239,7 +239,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 17,
@@ -249,9 +249,9 @@
             "zh_cn" : "鳄渊 亚伽里",
             "zh_tw" : "鰐渕 亞伽里",
             "illust" : 0,
-            "profile" : [1,2,3],
+            "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 18,
@@ -263,7 +263,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           }
         ]
       },
@@ -284,7 +284,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 20,
@@ -296,7 +296,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 21,
@@ -308,7 +308,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 22,
@@ -320,7 +320,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 23,
@@ -332,7 +332,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true 
+            "open" : true 
           }
         ]
       },
@@ -353,7 +353,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true 
+            "open" : true 
           },
           {
             "no" : 25,
@@ -365,7 +365,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -386,7 +386,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 27,
@@ -398,7 +398,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 28,
@@ -410,7 +410,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -431,7 +431,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 30,
@@ -443,7 +443,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -464,7 +464,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 32,
@@ -476,7 +476,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -497,7 +497,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       }
@@ -527,7 +527,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 35,
@@ -539,7 +539,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 36,
@@ -551,7 +551,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 37,
@@ -563,7 +563,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 175,
@@ -573,9 +573,9 @@
             "zh_cn" : "飞鸟马朱 飛",
             "zh_tw" : "飛鳥馬朱 飛",
             "illust" : 0,
-            "profile" : [1],
+            "profile" : [1,2,3],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -596,7 +596,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 188,
@@ -608,7 +608,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 39,
@@ -620,7 +620,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 40,
@@ -632,7 +632,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 41,
@@ -644,7 +644,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -663,9 +663,9 @@
             "zh_cn" : "明星向日葵",
             "zh_tw" : "明星向日葵",
             "illust" : 0,
-            "profile" : [1,2],
+            "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 43,
@@ -677,7 +677,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 44,
@@ -689,7 +689,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 45,
@@ -701,7 +701,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 46,
@@ -713,7 +713,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -734,7 +734,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 48,
@@ -746,7 +746,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 49,
@@ -758,7 +758,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 50,
@@ -770,7 +770,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -791,7 +791,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 51,
@@ -801,9 +801,9 @@
             "zh_cn" : "早濑 优香",
             "zh_tw" : "早瀬 優香",
             "illust" : 0,
-            "profile" : [1,2,3,4],
+            "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 52,
@@ -815,7 +815,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 172,
@@ -827,7 +827,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -848,7 +848,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -869,7 +869,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -890,7 +890,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       }
@@ -920,7 +920,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 56,
@@ -932,7 +932,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 57,
@@ -944,7 +944,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 58,
@@ -956,7 +956,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -977,7 +977,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 60,
@@ -989,7 +989,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 61,
@@ -1001,7 +1001,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 62,
@@ -1011,9 +1011,9 @@
             "zh_cn" : "桐藤 渚",
             "zh_tw" : "桐藤 渚",
             "illust" : 0,
-            "profile" : [1],
+            "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1034,7 +1034,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 64,
@@ -1046,7 +1046,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 65,
@@ -1058,7 +1058,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 66,
@@ -1068,9 +1068,9 @@
             "zh_cn" : "浦和 花子",
             "zh_tw" : "浦和 花子",
             "illust" : 0,
-            "profile" : [1,2],
+            "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1091,7 +1091,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 68,
@@ -1103,7 +1103,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 69,
@@ -1115,7 +1115,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 70,
@@ -1127,7 +1127,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 71,
@@ -1139,7 +1139,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1160,7 +1160,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 73,
@@ -1172,7 +1172,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 74,
@@ -1184,7 +1184,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 75,
@@ -1196,7 +1196,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1217,7 +1217,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 77,
@@ -1229,7 +1229,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 78,
@@ -1241,7 +1241,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1262,7 +1262,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 80,
@@ -1274,7 +1274,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1295,7 +1295,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 171,
@@ -1307,7 +1307,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1328,7 +1328,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       }
@@ -1358,7 +1358,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 84,
@@ -1370,7 +1370,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 85,
@@ -1382,7 +1382,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1403,7 +1403,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 87,
@@ -1415,7 +1415,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 88,
@@ -1427,7 +1427,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1448,7 +1448,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 90,
@@ -1460,7 +1460,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 91,
@@ -1472,7 +1472,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1493,7 +1493,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 93,
@@ -1505,7 +1505,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 94,
@@ -1517,7 +1517,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1538,8 +1538,17 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5,6,7],
             "momotalk" : true,
-            "open"   : true
-          },
+            "open" : true
+          }
+        ]
+      },
+      {
+        "kr" : "백화요란 분쟁조정위원회",
+        "en" : "Hyakkayouran Conflict Resolution Council",
+        "jp" : "百花繚乱紛争調停委員会",
+        "zh_cn" : "百花齐放纠纷调解委员会",
+        "zh_tw" : "百花齊放糾紛調解委員會",
+        "student" : [
           {
             "no" : 97,
             "kr" : "쿠즈노하",
@@ -1550,7 +1559,19 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
+          },
+          {
+            "no" : 192,
+            "kr" : "고료 나구사",
+            "en" : "Goryo Nagusa",
+            "jp" : "五稜 なぐさ",
+            "zh_cn" : "五陵 长草",
+            "zh_tw" : "五陵 長草",
+            "illust" : 0,
+            "profile" : [1],
+            "momotalk" : false,
+            "open" : true
           }
         ]
       }
@@ -1580,7 +1601,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
           },
           {
             "no" : 184,
@@ -1592,7 +1613,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
           },
           {
             "no" : 185,
@@ -1604,7 +1625,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
           }
         ]
       },
@@ -1625,7 +1646,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1646,7 +1667,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 100,
@@ -1658,7 +1679,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
           },
           {
             "no" : 101,
@@ -1670,7 +1691,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1691,7 +1712,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 103,
@@ -1703,7 +1724,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1724,7 +1745,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
           }
         ]
       }
@@ -1754,7 +1775,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 105,
@@ -1766,7 +1787,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 106,
@@ -1778,7 +1799,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 107,
@@ -1790,7 +1811,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1811,7 +1832,7 @@
             "illust" : 0,
             "profile" : [1,3,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 109,
@@ -1823,7 +1844,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1844,7 +1865,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 111,
@@ -1856,7 +1877,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1877,7 +1898,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 113,
@@ -1889,7 +1910,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       }
@@ -1919,7 +1940,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 115,
@@ -1931,7 +1952,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1952,7 +1973,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -1973,7 +1994,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       }
@@ -2003,7 +2024,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 119,
@@ -2015,7 +2036,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 120,
@@ -2027,7 +2048,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 121,
@@ -2039,7 +2060,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2060,7 +2081,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 123,
@@ -2072,7 +2093,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 186,
@@ -2084,7 +2105,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
           },
           {
             "no" : 187,
@@ -2096,7 +2117,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
           }
         ]
       }
@@ -2126,7 +2147,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 125,
@@ -2138,7 +2159,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 126,
@@ -2150,7 +2171,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 127,
@@ -2162,7 +2183,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2183,7 +2204,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       }
@@ -2213,7 +2234,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 130,
@@ -2223,9 +2244,9 @@
             "zh_cn" : "七神 琳",
             "zh_tw" : "七神 琳",
             "illust" : 0,
-            "profile" : [1],
+            "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 131,
@@ -2235,9 +2256,9 @@
             "zh_cn" : "由良木 桃香",
             "zh_tw" : "由良木 桃香",
             "illust" : 0,
-            "profile" : [1],
+            "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 132,
@@ -2247,9 +2268,9 @@
             "zh_cn" : "岩柜 步",
             "zh_tw" : "岩櫃 步",
             "illust" : 0,
-            "profile" : [1],
+            "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 133,
@@ -2261,7 +2282,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 178,
@@ -2273,7 +2294,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 179,
@@ -2285,7 +2306,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2306,7 +2327,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 135,
@@ -2318,7 +2339,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2339,7 +2360,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2360,7 +2381,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2381,7 +2402,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 139,
@@ -2393,7 +2414,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 140,
@@ -2405,7 +2426,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 141,
@@ -2417,7 +2438,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 142,
@@ -2429,7 +2450,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2450,7 +2471,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2471,7 +2492,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 145,
@@ -2483,7 +2504,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2504,7 +2525,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2525,7 +2546,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 148,
@@ -2537,7 +2558,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 149,
@@ -2549,7 +2570,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2570,7 +2591,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2591,7 +2612,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2612,7 +2633,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 153,
@@ -2624,7 +2645,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 174,
@@ -2636,7 +2657,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2657,7 +2678,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5,6,7],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 155,
@@ -2669,7 +2690,7 @@
             "illust" : 0,
             "profile" : [1,2,3],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2690,7 +2711,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2711,7 +2732,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2732,7 +2753,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2753,7 +2774,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2774,7 +2795,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 180,
@@ -2786,7 +2807,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 181,
@@ -2798,7 +2819,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 182,
@@ -2810,7 +2831,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2831,7 +2852,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           },
           {
             "no" : 162,
@@ -2843,7 +2864,7 @@
             "illust" : 0,
             "profile" : [1,2,3,4,5],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2864,7 +2885,7 @@
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2885,7 +2906,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2906,7 +2927,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : true
+            "open" : true
           }
         ]
       },
@@ -2927,7 +2948,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
           },
           {
             "no" : 167,
@@ -2939,7 +2960,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
           },
           {
             "no" : 168,
@@ -2951,7 +2972,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
           },
           {
             "no" : 169,
@@ -2963,7 +2984,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
           },
           {
             "no" : 170,
@@ -2975,7 +2996,52 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
+          }
+        ]
+      },
+      {
+        "kr" : "색채",
+        "en" : "Color",
+        "jp" : "色彩",
+        "zh_cn" : "色彩",
+        "zh_tw" : "色彩",
+        "student" : [
+          {
+            "no" : 189,
+            "kr" : "프레나파테스",
+            "en" : "Frenapates",
+            "jp" : "プレナファテス",
+            "zh_cn" : "普雷纳帕提斯",
+            "zh_tw" : "普雷納帕提斯",
+            "illust" : 0,
+            "profile" : [1],
+            "momotalk" : false,
+            "open" : true
+          },
+          {
+            "no" : 190,
+            "kr" : "아누비스",
+            "en" : "Anubis",
+            "jp" : "アヌビス",
+            "zh_cn" : "阿努比斯",
+            "zh_tw" : "阿努比斯",
+            "illust" : 0,
+            "profile" : [1],
+            "momotalk" : false,
+            "open" : true
+          },
+          {
+            "no" : 191,
+            "kr" : "블랙-아로나",
+            "en" : "Black-Arona",
+            "jp" : "クロ-アロナ",
+            "zh_cn" : "乌黑-彩奈",
+            "zh_tw" : "烏黑-彩奈",
+            "illust" : 0,
+            "profile" : [1],
+            "momotalk" : false,
+            "open" : true
           }
         ]
       },
@@ -2996,7 +3062,37 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open"   : false
+            "open" : false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kr" : "SCHALE",
+    "en" : "SCHALE",
+    "jp" : "SCHALE",
+    "zh_cn" : "SCHALE",
+    "zh_tw" : "SCHALE",
+    "club" : [
+      {
+        "kr" : "SCHALE",
+        "en" : "SCHALE",
+        "jp" : "SCHALE",
+        "zh_cn" : "SCHALE",
+        "zh_tw" : "SCHALE",
+        "student" : [
+          {
+            "no" : 193,
+            "kr" : "선생님",
+            "en" : "Sensei",
+            "jp" : "先生",
+            "zh_cn" : "老师",
+            "zh_tw" : "老師",
+            "illust" : 0,
+            "profile" : [1],
+            "momotalk" : false,
+            "open" : true 
           }
         ]
       }
