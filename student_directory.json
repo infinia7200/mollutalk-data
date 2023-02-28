@@ -1194,7 +1194,7 @@
             "zh_cn" : "歌住 萨克拉科",
             "zh_tw" : "歌住 薩克拉科",
             "illust" : 0,
-            "profile" : [1],
+            "profile" : [1,2],
             "momotalk" : false,
             "open" : true
           }
@@ -2400,7 +2400,7 @@
             "zh_cn" : "黑服",
             "zh_tw" : "黑服",
             "illust" : 0,
-            "profile" : [1],
+            "profile" : [1,2],
             "momotalk" : false,
             "open" : true
           },
@@ -2436,7 +2436,7 @@
             "zh_cn" : "马埃斯特罗",
             "zh_tw" : "馬埃斯特羅",
             "illust" : 0,
-            "profile" : [1],
+            "profile" : [1,2],
             "momotalk" : false,
             "open" : true
           },
@@ -2997,6 +2997,18 @@
             "profile" : [1],
             "momotalk" : false,
             "open" : false
+          },
+          {
+            "no" : 194,
+            "kr" : "프랜시스",
+            "en" : "Francis",
+            "jp" : "フランシス",
+            "zh_cn" : "弗朗西斯",
+            "zh_tw" : "弗朗西斯",
+            "illust" : 0,
+            "profile" : [1],
+            "momotalk" : false,
+            "open" : true
           }
         ]
       },
