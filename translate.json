@@ -542,8 +542,8 @@
     "kr" : "인연 이벤트",
     "en" : "Relationship Event",
     "jp" : "絆イベント",
-    "zh_cn" : "纽带活动",
-    "zh_tw" : "紐帶活動"
+    "zh_cn" : "羁绊活动",
+    "zh_tw" : "羈絆活動"
   },
   "expected" : {
     "kr" : "예정",
@@ -591,8 +591,8 @@
     "kr" : "의 인연스토리로",
     "en" : " of the relationship story",
     "jp" : "の絆ストーリーへ",
-    "zh_cn" : "的纽带故事",
-    "zh_tw" : "的紐帶故事"
+    "zh_cn" : "的羁绊剧情",
+    "zh_tw" : "的羈絆劇情"
   },
   "ask_delete" : {
     "kr" : "정말로 삭제하시겠습니까?",
