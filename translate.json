@@ -230,6 +230,20 @@
     "zh_cn" : "系列",
     "zh_tw" : "系列"
   },
+  "none_series" : {
+    "kr" : "시리즈 선택안함",
+    "en" : "None Series",
+    "jp" : "なし系列",
+    "zh_cn" : "无级数",
+    "zh_tw" : "無級數"
+  },
+  "add_series" : {
+    "kr" : "시리즈 추가",
+    "en" : "Add Series",
+    "jp" : "シリーズの追加",
+    "zh_cn" : "添加系列",
+    "zh_tw" : "添加系列"
+  },
   "management" : {
     "kr" : "관리",
     "en" : "Management",
@@ -589,7 +603,7 @@
   },
   "go_relationship_event" : {
     "kr" : "의 인연스토리로",
-    "en" : " of the relationship story",
+    "en" : "'s the relationship story",
     "jp" : "の絆ストーリーへ",
     "zh_cn" : "的羁绊剧情",
     "zh_tw" : "的羈絆劇情"
@@ -635,6 +649,13 @@
     "jp" : "タイトルを入力してください。",
     "zh_cn" : "请输入标题。",
     "zh_tw" : "請輸入標題。"
+  },
+  "series_title_comment" : {
+    "kr" : "새로운 시리즈 제목을 입력해주세요.",
+    "en" : "Please enter the new Series Title.",
+    "jp" : "新しいシリーズタイトルを入力してください。",
+    "zh_cn" : "请输入新的系列标题。",
+    "zh_tw" : "請輸入新的系列標題。"
   },
   "nickName_comment" : {
     "kr" : "닉네임을 입력해주세요.",
@@ -923,5 +944,12 @@
     "jp" : "画像がダウンロードされない場合は、表示された画像をダウンロードしてください。",
     "zh_cn" : "如果未下载图像，请下载该图像。",
     "zh_tw" : "如果未下載圖像，請下載該圖像。"
+  },
+  "filter_selectBox" : {
+    "kr" : "검색해보세요.",
+    "en" : "Search for it.",
+    "jp" : "検索してみてください。",
+    "zh_cn" : "请搜索一下。",
+    "zh_tw" : "請搜索一下。"
   }
 }
