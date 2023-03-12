@@ -12,7 +12,7 @@
         "jp" : "対策委員会",
         "zh_cn" : "对策委员会",
         "zh_tw" : "對策委員會",
-        "student" : [
+        "characters" : [
           {
             "no" : 1,
             "kr" : "스나오오카미 시로코",
@@ -90,7 +90,7 @@
         "jp" : "風紀委員会",
         "zh_cn" : "纠察部",
         "zh_tw" : "糾察部",
-        "student" : [
+        "characters" : [
           {
             "no" : 6,
             "kr" : "선도부원",
@@ -159,7 +159,7 @@
         "jp" : "便利屋68",
         "zh_cn" : "便利屋68",
         "zh_tw" : "便利屋68",
-        "student" : [
+        "characters" : [
           {
             "no" : 11,
             "kr" : "아사기 무츠키",
@@ -216,7 +216,7 @@
         "jp" : "美食研究会",
         "zh_cn" : "美食研究会",
         "zh_tw" : "美食研究會",
-        "student" : [
+        "characters" : [
           {
             "no" : 15,
             "kr" : "시시도우 이즈미",
@@ -273,7 +273,7 @@
         "jp" : "万魔殿",
         "zh_cn" : "万魔殿",
         "zh_tw" : "萬魔殿",
-        "student" : [
+        "characters" : [
           {
             "no" : 19,
             "kr" : "하누마 마코토",
@@ -342,7 +342,7 @@
         "jp" : "給食部",
         "zh_cn" : "给食部",
         "zh_tw" : "給食部",
-        "student" : [
+        "characters" : [
           {
             "no" : 24,
             "kr" : "아이키요 후우카",
@@ -375,7 +375,7 @@
         "jp" : "温泉開発部",
         "zh_cn" : "温泉开发部",
         "zh_tw" : "溫泉開發部",
-        "student" : [
+        "characters" : [
           {
             "no" : 26,
             "kr" : "카스미",
@@ -420,7 +420,7 @@
         "jp" : "救急医学部",
         "zh_cn" : "急救医学部",
         "zh_tw" : "急救醫學部",
-        "student" : [
+        "characters" : [
           {
             "no" : 29,
             "kr" : "히무로 세나",
@@ -453,7 +453,7 @@
         "jp" : "帰宅部",
         "zh_cn" : "回家部",
         "zh_tw" : "回家部",
-        "student" : [
+        "characters" : [
           {
             "no" : 31,
             "kr" : "하타미 에리카",
@@ -482,11 +482,11 @@
       },
       {
         "kr" : "학생",
-        "en" : "Student",
+        "en" : "characters",
         "jp" : "生徒",
         "zh_cn" : "学生",
         "zh_tw" : "學生",
-        "student" : [
+        "characters" : [
           {
             "no" : 33,
             "kr" : "게헨나-학생",
@@ -516,7 +516,7 @@
         "jp" : "Cleaning & Clearing",
         "zh_cn" : "Cleaning & Clearing",
         "zh_tw" : "Cleaning & Clearing",
-        "student" : [
+        "characters" : [
           {
             "no" : 34,
             "kr" : "무로카사 아카네",
@@ -585,7 +585,7 @@
         "jp" : "ゲーム開発部",
         "zh_cn" : "游戏开发部",
         "zh_tw" : "遊戲開發部",
-        "student" : [
+        "characters" : [
           {
             "no" : 38,
             "kr" : "텐도 아리스",
@@ -654,7 +654,7 @@
         "jp" : "ヴェリタス",
         "zh_cn" : "真理部",
         "zh_tw" : "真理部",
-        "student" : [
+        "characters" : [
           {
             "no" : 42,
             "kr" : "아케보시 히마리",
@@ -723,7 +723,7 @@
         "jp" : "エンジニア部",
         "zh_cn" : "工程师部",
         "zh_tw" : "工程師部",
-        "student" : [
+        "characters" : [
           {
             "no" : 47,
             "kr" : "네코즈카 히비키",
@@ -780,7 +780,7 @@
         "jp" : "セミナー",
         "zh_cn" : "研讨会",
         "zh_tw" : "研討會",
-        "student" : [
+        "characters" : [
           {
             "no" : 176,
             "kr" : "츠카츠키 리오",
@@ -837,7 +837,7 @@
         "jp" : "特異現象捜査部",
         "zh_cn" : "特异现象搜查部",
         "zh_tw" : "特異現象搜查部",
-        "student" : [
+        "characters" : [
           {
             "no" : 53,
             "kr" : "이즈미모토 에이미",
@@ -858,7 +858,7 @@
         "jp" : "トレーニング部",
         "zh_cn" : "健身部",
         "zh_tw" : "健身部",
-        "student" : [
+        "characters" : [
           {
             "no" : 54,
             "kr" : "오토하나 스미레",
@@ -875,11 +875,11 @@
       },
       {
         "kr" : "학생",
-        "en" : "Student",
+        "en" : "characters",
         "jp" : "生徒",
         "zh_cn" : "学生",
         "zh_tw" : "學生",
-        "student" : [
+        "characters" : [
           {
             "no" : 173,
             "kr" : "밀레니엄-학생",
@@ -909,7 +909,7 @@
         "jp" : "放課後スイーツ部",
         "zh_cn" : "放学后甜品部",
         "zh_tw" : "放學後甜品部",
-        "student" : [
+        "characters" : [
           {
             "no" : 55,
             "kr" : "유토리 나츠",
@@ -966,7 +966,7 @@
         "jp" : "ティーパーティー",
         "zh_cn" : "茶话会",
         "zh_tw" : "茶話會",
-        "student" : [
+        "characters" : [
           {
             "no" : 59,
             "kr" : "티파티",
@@ -1023,7 +1023,7 @@
         "jp" : "補習授業部",
         "zh_cn" : "补习部",
         "zh_tw" : "補習部",
-        "student" : [
+        "characters" : [
           {
             "no" : 63,
             "kr" : "시라스 아즈사",
@@ -1080,7 +1080,7 @@
         "jp" : "正義実現委員会",
         "zh_cn" : "正义实现委员会",
         "zh_tw" : "正義實現委員會",
-        "student" : [
+        "characters" : [
           {
             "no" : 67,
             "kr" : "정의실현부원",
@@ -1149,7 +1149,7 @@
         "jp" : "シスターフッド",
         "zh_cn" : "修女会",
         "zh_tw" : "修女會",
-        "student" : [
+        "characters" : [
           {
             "no" : 72,
             "kr" : "시스터후드",
@@ -1206,7 +1206,7 @@
         "jp" : "救護騎士団",
         "zh_cn" : "救护骑士团",
         "zh_tw" : "救護騎士團",
-        "student" : [
+        "characters" : [
           {
             "no" : 76,
             "kr" : "스미 세리나",
@@ -1251,7 +1251,7 @@
         "jp" : "図書委員会",
         "zh_cn" : "图书委员会",
         "zh_tw" : "圖書委員會",
-        "student" : [
+        "characters" : [
           {
             "no" : 79,
             "kr" : "엔도우 시미코",
@@ -1284,7 +1284,7 @@
         "jp" : "トリニティ自警団",
         "zh_cn" : "圣三一自警团",
         "zh_tw" : "聖三一自警團",
-        "student" : [
+        "characters" : [
           {
             "no" : 81,
             "kr" : "모리즈키 스즈미",
@@ -1313,11 +1313,11 @@
       },
       {
         "kr" : "학생",
-        "en" : "Student",
+        "en" : "characters",
         "jp" : "生徒",
         "zh_cn" : "学生",
         "zh_tw" : "學生",
-        "student" : [
+        "characters" : [
           {
             "no" : 82,
             "kr" : "트리니티-학생",
@@ -1347,7 +1347,7 @@
         "jp" : "お祭り運営委員会",
         "zh_cn" : "庆典运营委员会",
         "zh_tw" : "慶典運營委員會",
-        "student" : [
+        "characters" : [
           {
             "no" : 83,
             "kr" : "아사히나 피나",
@@ -1392,7 +1392,7 @@
         "jp" : "修行部",
         "zh_cn" : "修行部",
         "zh_tw" : "執行部",
-        "student" : [
+        "characters" : [
           {
             "no" : 86,
             "kr" : "미즈하 미모리",
@@ -1437,7 +1437,7 @@
         "jp" : "陰陽部",
         "zh_cn" : "阴阳部",
         "zh_tw" : "陰陽部",
-        "student" : [
+        "characters" : [
           {
             "no" : 89,
             "kr" : "와라쿠 치세",
@@ -1482,7 +1482,7 @@
         "jp" : "忍術研究部",
         "zh_cn" : "忍术研究部",
         "zh_tw" : "忍術研究部",
-        "student" : [
+        "characters" : [
           {
             "no" : 92,
             "kr" : "쿠다 이즈나",
@@ -1523,11 +1523,11 @@
       },
       {
         "kr" : "학생",
-        "en" : "Student",
+        "en" : "characters",
         "jp" : "生徒",
         "zh_cn" : "学生",
         "zh_tw" : "學生",
-        "student" : [
+        "characters" : [
           {
             "no" : 95,
             "kr" : "코사카 와카모",
@@ -1548,7 +1548,7 @@
         "jp" : "百花繚乱紛争調停委員会",
         "zh_cn" : "百花齐放纠纷调解委员会",
         "zh_tw" : "百花齊放糾紛調解委員會",
-        "student" : [
+        "characters" : [
           {
             "no" : 97,
             "kr" : "쿠즈노하",
@@ -1590,7 +1590,7 @@
         "jp" : "玄竜門",
         "zh_cn" : "玄龙门",
         "zh_tw" : "玄龍門",
-        "student" : [
+        "characters" : [
           {
             "no" : 183,
             "kr" : "키사키",
@@ -1635,7 +1635,7 @@
         "jp" : "練丹術研究会",
         "zh_cn" : "炼丹术研究会",
         "zh_tw" : "煉丹術研究會",
-        "student" : [
+        "characters" : [
           {
             "no" : 98,
             "kr" : "야쿠시 사야",
@@ -1656,7 +1656,7 @@
         "jp" : "玄武商会",
         "zh_cn" : "玄武商会",
         "zh_tw" : "玄武商會",
-        "student" : [
+        "characters" : [
           {
             "no" : 99,
             "kr" : "루미",
@@ -1701,7 +1701,7 @@
         "jp" : "訓育支援部「梅花園」",
         "zh_cn" : "教育支援部「梅花园」",
         "zh_tw" : "教育支援部「梅花園」",
-        "student" : [
+        "characters" : [
           {
             "no" : 102,
             "kr" : "스노하라 슌",
@@ -1730,11 +1730,11 @@
       },
       {
         "kr" : "학생",
-        "en" : "Student",
+        "en" : "characters",
         "jp" : "生徒",
         "zh_cn" : "学生",
         "zh_tw" : "學生",
-        "student" : [
+        "characters" : [
           {
             "no" : 96,
             "kr" : "페이",
@@ -1764,7 +1764,7 @@
         "jp" : "レッドウィンター事務局",
         "zh_cn" : "红冬事务局",
         "zh_tw" : "紅冬事務局",
-        "student" : [
+        "characters" : [
           {
             "no" : 104,
             "kr" : "렌카와 체리노",
@@ -1821,7 +1821,7 @@
         "jp" : "227号特別クラス",
         "zh_cn" : "227号特别班",
         "zh_tw" : "227號特別班",
-        "student" : [
+        "characters" : [
           {
             "no" : 108,
             "kr" : "마요이 시구레",
@@ -1854,7 +1854,7 @@
         "jp" : "知識解放戦線",
         "zh_cn" : "知识解放战线",
         "zh_tw" : "知識解放戰線",
-        "student" : [
+        "characters" : [
           {
             "no" : 110,
             "kr" : "히메키 메루",
@@ -1887,7 +1887,7 @@
         "jp" : "工務部",
         "zh_cn" : "工务部",
         "zh_tw" : "工務部",
-        "student" : [
+        "characters" : [
           {
             "no" : 112,
             "kr" : "야스모리 미노리",
@@ -1929,7 +1929,7 @@
         "jp" : "生活安全局",
         "zh_cn" : "生活安全局",
         "zh_tw" : "生活安全局",
-        "student" : [
+        "characters" : [
           {
             "no" : 114,
             "kr" : "나카츠카사 키리노",
@@ -1962,7 +1962,7 @@
         "jp" : "公安局",
         "zh_cn" : "公安局",
         "zh_tw" : "公安局",
-        "student" : [
+        "characters" : [
           {
             "no" : 116,
             "kr" : "오가타 칸나",
@@ -1979,11 +1979,11 @@
       },
       {
         "kr" : "학생",
-        "en" : "Student",
+        "en" : "characters",
         "jp" : "生徒",
         "zh_cn" : "学生",
         "zh_tw" : "學生",
-        "student" : [
+        "characters" : [
           {
             "no" : 117,
             "kr" : "발키리-학생",
@@ -2013,7 +2013,7 @@
         "jp" : "RABBIT 小隊",
         "zh_cn" : "RABBIT小队",
         "zh_tw" : "RABBIT小隊",
-        "student" : [
+        "characters" : [
           {
             "no" : 118,
             "kr" : "소라이 사키",
@@ -2070,7 +2070,7 @@
         "jp" : "FOX 小隊",
         "zh_cn" : "FOX 小队",
         "zh_tw" : "FOX 小隊",
-        "student" : [
+        "characters" : [
           {
             "no" : 122,
             "kr" : "유키노",
@@ -2136,7 +2136,7 @@
         "jp" : "アリウス スクワッド",
         "zh_cn" : "阿里乌斯特殊小队",
         "zh_tw" : "阿里烏斯特殊小隊",
-        "student" : [
+        "characters" : [
           {
             "no" : 124,
             "kr" : "조마에 사오리",
@@ -2189,11 +2189,11 @@
       },
       {
         "kr" : "학생",
-        "en" : "Student",
+        "en" : "characters",
         "jp" : "生徒",
         "zh_cn" : "学生",
         "zh_tw" : "學生",
-        "student" : [
+        "characters" : [
           {
             "no" : 128,
             "kr" : "아리우스-학생",
@@ -2223,7 +2223,7 @@
         "jp" : "連邦生徒会",
         "zh_cn" : "联邦学生会",
         "zh_tw" : "聯邦學生會",
-        "student" : [
+        "characters" : [
           {
             "no" : 129,
             "kr" : "총학생회장",
@@ -2316,7 +2316,7 @@
         "jp" : "クロノス 報道部",
         "zh_cn" : "克洛诺斯报道部",
         "zh_tw" : "克洛諾斯報道部",
-        "student" : [
+        "characters" : [
           {
             "no" : 134,
             "kr" : "마이",
@@ -2349,7 +2349,7 @@
         "jp" : "ゴールデン フリース",
         "zh_cn" : "金羊毛衫",
         "zh_tw" : "金羊毛衫",
-        "student" : [
+        "characters" : [
           {
             "no" : 136,
             "kr" : "바니걸-가드",
@@ -2366,11 +2366,11 @@
       },
       {
         "kr" : "학생",
-        "en" : "Student",
+        "en" : "characters",
         "jp" : "生徒",
         "zh_cn" : "学生",
         "zh_tw" : "學生",
-        "student" : [
+        "characters" : [
           {
             "no" : 137,
             "kr" : "하츠네-미쿠",
@@ -2391,7 +2391,7 @@
         "jp" : "ゲマトリア",
         "zh_cn" : "盖玛特利亚",
         "zh_tw" : "蓋瑪特利亞",
-        "student" : [
+        "characters" : [
           {
             "no" : 138,
             "kr" : "검은-양복",
@@ -2460,7 +2460,7 @@
         "jp" : "The Library of Lore",
         "zh_cn" : "The Library of Lore",
         "zh_tw" : "The Library of Lore",
-        "student" : [
+        "characters" : [
           {
             "no" : 143,
             "kr" : "페로로질라",
@@ -2481,7 +2481,7 @@
         "jp" : "クロガメ派",
         "zh_cn" : "黑龟派",
         "zh_tw" : "黑龜派",
-        "student" : [
+        "characters" : [
           {
             "no" : 144,
             "kr" : "오토마타",
@@ -2514,7 +2514,7 @@
         "jp" : "スケ番",
         "zh_cn" : "看门人",
         "zh_tw" : "看門人",
-        "student" : [
+        "characters" : [
           {
             "no" : 146,
             "kr" : "불량배",
@@ -2535,7 +2535,7 @@
         "jp" : "デカグラマトン",
         "zh_cn" : "十字神名",
         "zh_tw" : "十字神名",
-        "student" : [
+        "characters" : [
           {
             "no" : 147,
             "kr" : "호드",
@@ -2580,7 +2580,7 @@
         "jp" : "モモフレンズ",
         "zh_cn" : "莫莫·弗兰斯",
         "zh_tw" : "莫莫·弗蘭斯",
-        "student" : [
+        "characters" : [
           {
             "no" : 150,
             "kr" : "페로로님",
@@ -2601,7 +2601,7 @@
         "jp" : "百鬼夜行商店街",
         "zh_cn" : "百鬼夜行商店街",
         "zh_tw" : "百鬼夜行商店街",
-        "student" : [
+        "characters" : [
           {
             "no" : 151,
             "kr" : "냥텐마루",
@@ -2622,7 +2622,7 @@
         "jp" : "スランピア",
         "zh_cn" : "低谷皮亚",
         "zh_tw" : "低谷皮亞",
-        "student" : [
+        "characters" : [
           {
             "no" : 152,
             "kr" : "시로",
@@ -2667,7 +2667,7 @@
         "jp" : "市民",
         "zh_cn" : "市民",
         "zh_tw" : "市民",
-        "student" : [
+        "characters" : [
           {
             "no" : 154,
             "kr" : "키보토스-시민",
@@ -2700,7 +2700,7 @@
         "jp" : "柴関ラーメン",
         "zh_cn" : "柴关拉面",
         "zh_tw" : "柴關拉麵",
-        "student" : [
+        "characters" : [
           {
             "no" : 156,
             "kr" : "시바세키-사장",
@@ -2721,7 +2721,7 @@
         "jp" : "シッテムの箱",
         "zh_cn" : "希迪姆的箱子",
         "zh_tw" : "希迪姆的箱子",
-        "student" : [
+        "characters" : [
           {
             "no" : 157,
             "kr" : "아로나",
@@ -2742,7 +2742,7 @@
         "jp" : "エンジェル24",
         "zh_cn" : "天使24",
         "zh_tw" : "天使24",
-        "student" : [
+        "characters" : [
           {
             "no" : 158,
             "kr" : "소라",
@@ -2763,7 +2763,7 @@
         "jp" : "魑魅一座・路上流",
         "zh_cn" : "二水魅剧团路流",
         "zh_tw" : "二水魅劇團路流",
-        "student" : [
+        "characters" : [
           {
             "no" : 159,
             "kr" : "이매일좌",
@@ -2784,7 +2784,7 @@
         "jp" : "カイザー PMC",
         "zh_cn" : "凯撒 PMC",
         "zh_tw" : "凱撒 PMC",
-        "student" : [
+        "characters" : [
           {
             "no" : 160,
             "kr" : "카이저-PMC-이사",
@@ -2841,7 +2841,7 @@
         "jp" : "カイテンジャー",
         "zh_cn" : "凯坦泽",
         "zh_tw" : "凱坦澤",
-        "student" : [
+        "characters" : [
           {
             "no" : 161,
             "kr" : "KAITEN-FX-Mk.0",
@@ -2874,7 +2874,7 @@
         "jp" : "カタカタヘルメット団",
         "zh_cn" : "Katakata 头盔团",
         "zh_tw" : "Katakata 頭盔團",
-        "student" : [
+        "characters" : [
           {
             "no" : 163,
             "kr" : "헬멧단",
@@ -2895,7 +2895,7 @@
         "jp" : "ジャブジャブヘルメット団",
         "zh_cn" : "尖头头盔团",
         "zh_tw" : "尖頭頭盔團",
-        "student" : [
+        "characters" : [
           {
             "no" : 164,
             "kr" : "코마카제 라브",
@@ -2916,7 +2916,7 @@
         "jp" : "コムニオ・サンクトラム",
         "zh_cn" : "Communio Sanctorum",
         "zh_tw" : "Communio Sanctorum",
-        "student" : [
+        "characters" : [
           {
             "no" : 165,
             "kr" : "예로니무스",
@@ -2937,7 +2937,7 @@
         "jp" : "所属不明",
         "zh_cn" : "所属不详",
         "zh_tw" : "所屬不詳",
-        "student" : [
+        "characters" : [
           {
             "no" : 166,
             "kr" : "칸나",
@@ -3018,7 +3018,7 @@
         "jp" : "色彩",
         "zh_cn" : "色彩",
         "zh_tw" : "色彩",
-        "student" : [
+        "characters" : [
           {
             "no" : 189,
             "kr" : "프레나파테스",
@@ -3063,7 +3063,7 @@
         "jp" : "ブルーアーカイブ",
         "zh_cn" : "蓝色存档",
         "zh_tw" : "藍色存檔",
-        "student" : [
+        "characters" : [
           {
             "no" : 177,
             "kr" : "용하",
@@ -3093,7 +3093,7 @@
         "jp" : "SCHALE",
         "zh_cn" : "SCHALE",
         "zh_tw" : "SCHALE",
-        "student" : [
+        "characters" : [
           {
             "no" : 193,
             "kr" : "선생님",
