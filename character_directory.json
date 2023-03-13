@@ -813,7 +813,7 @@
             "zh_cn" : "黑崎 小雪",
             "zh_tw" : "黑崎 小雪",
             "illust" : 0,
-            "profile" : [1,2],
+            "profile" : [1,2,3],
             "momotalk" : false,
             "open" : true
           },
@@ -2022,7 +2022,7 @@
             "zh_cn" : "空井 咲",
             "zh_tw" : "空井 咲",
             "illust" : 0,
-            "profile" : [1,2,3],
+            "profile" : [1,2,4,3],
             "momotalk" : true,
             "open" : true
           },
@@ -2227,7 +2227,7 @@
           {
             "no" : 129,
             "kr" : "총학생회장",
-            "en" : "President-of-the-student",
+            "en" : "GSC President",
             "jp" : "連邦生徒会長",
             "zh_cn" : "联邦学生会主席",
             "zh_tw" : "聯邦學生會主席",
@@ -2716,27 +2716,6 @@
         ]
       },
       {
-        "kr" : "싯딤의 상자",
-        "en" : "Shittim Chests",
-        "jp" : "シッテムの箱",
-        "zh_cn" : "希迪姆的箱子",
-        "zh_tw" : "希迪姆的箱子",
-        "characters" : [
-          {
-            "no" : 157,
-            "kr" : "아로나",
-            "en" : "Arona",
-            "jp" : "アロナ",
-            "zh_cn" : "彩奈",
-            "zh_tw" : "彩奈",
-            "illust" : 0,
-            "profile" : [1],
-            "momotalk" : false,
-            "open" : true
-          }
-        ]
-      },
-      {
         "kr" : "엔젤 24",
         "en" : "Angel 24",
         "jp" : "エンジェル24",
@@ -3009,6 +2988,30 @@
             "profile" : [1],
             "momotalk" : false,
             "open" : true
+          },
+          {
+            "no" : 190,
+            "kr" : "아누비스",
+            "en" : "Anubis",
+            "jp" : "アヌビス",
+            "zh_cn" : "阿努比斯",
+            "zh_tw" : "阿努比斯",
+            "illust" : 0,
+            "profile" : [1],
+            "momotalk" : false,
+            "open" : true
+          },
+          {
+            "no" : 195,
+            "kr" : "???",
+            "en" : "???",
+            "jp" : "???",
+            "zh_cn" : "???",
+            "zh_tw" : "???",
+            "illust" : 0,
+            "profile" : [1],
+            "momotalk" : false,
+            "open" : true
           }
         ]
       },
@@ -3026,30 +3029,6 @@
             "jp" : "プレナパテス",
             "zh_cn" : "普雷纳瓦德斯",
             "zh_tw" : "普雷納瓦德斯",
-            "illust" : 0,
-            "profile" : [1],
-            "momotalk" : false,
-            "open" : true
-          },
-          {
-            "no" : 190,
-            "kr" : "아누비스",
-            "en" : "Anubis",
-            "jp" : "アヌビス",
-            "zh_cn" : "阿努比斯",
-            "zh_tw" : "阿努比斯",
-            "illust" : 0,
-            "profile" : [1],
-            "momotalk" : false,
-            "open" : true
-          },
-          {
-            "no" : 191,
-            "kr" : "블랙-아로나",
-            "en" : "Black-Arona",
-            "jp" : "クロ-アロナ",
-            "zh_cn" : "乌黑-彩奈",
-            "zh_tw" : "烏黑-彩奈",
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
@@ -3088,11 +3067,44 @@
     "zh_tw" : "SCHALE",
     "club" : [
       {
-        "kr" : "SCHALE",
-        "en" : "SCHALE",
-        "jp" : "SCHALE",
-        "zh_cn" : "SCHALE",
-        "zh_tw" : "SCHALE",
+        "kr" : "싯딤의 상자",
+        "en" : "Shittim Chests",
+        "jp" : "シッテムの箱",
+        "zh_cn" : "希迪姆的箱子",
+        "zh_tw" : "希迪姆的箱子",
+        "characters" : [
+          {
+            "no" : 157,
+            "kr" : "아로나",
+            "en" : "Arona",
+            "jp" : "アロナ",
+            "zh_cn" : "彩奈",
+            "zh_tw" : "彩奈",
+            "illust" : 0,
+            "profile" : [1],
+            "momotalk" : false,
+            "open" : true
+          },
+          {
+            "no" : 191,
+            "kr" : "프라나",
+            "en" : "Plana",
+            "jp" : "プラナ",
+            "zh_cn" : "普拉纳",
+            "zh_tw" : "普拉納",
+            "illust" : 0,
+            "profile" : [1],
+            "momotalk" : false,
+            "open" : true
+          }
+        ]
+      },
+      {
+        "kr" : "연방수사동아리 <S.C.H.A.L.E>",
+        "en" : "Schale, Independent Federal Investigation Club",
+        "jp" : "連邦捜査部「シャーレ」",
+        "zh_cn" : "联邦调查局「菜」",
+        "zh_tw" : "聯邦調查局「菜」",
         "characters" : [
           {
             "no" : 193,
