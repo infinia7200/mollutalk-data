@@ -3012,6 +3012,18 @@
             "profile" : [1],
             "momotalk" : false,
             "open" : true
+          },
+          {
+            "no" : 196,
+            "kr" : "무명사제",
+            "en" : "The-nameless-priests",
+            "jp" : "無名の司祭",
+            "zh_cn" : "无名牧师",
+            "zh_tw" : "無名牧師",
+            "illust" : 0,
+            "profile" : [1],
+            "momotalk" : false,
+            "open" : true
           }
         ]
       },
