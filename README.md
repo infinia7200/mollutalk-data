@@ -6,7 +6,7 @@ If there is a typo or correction, please make a full request.
 
 twitter - [@Raun0129](https://twitter.com/Raun0129)
 
-any typos in character or site - [go this way](https://github.com/Raun0129/mollutalk-official)
+any typos in mollutalk-offical - [go this way](https://github.com/Raun0129/mollutalk-official)
 
 ----
 ## character_directory.json
