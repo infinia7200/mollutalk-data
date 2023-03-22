@@ -4,7 +4,9 @@ This is a translation file for the [MolluTalk site](https://mollutalk.com)
 
 If there is a typo or correction, please make a full request.
 
-twitter - @Raun0129
+twitter - [@Raun0129](https://twitter.com/Raun0129)
+
+any typos in mollutalk-offical - [go this way](https://github.com/Raun0129/mollutalk-official)
 
 ----
 ## character_directory.json
