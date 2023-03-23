@@ -2097,18 +2097,6 @@
           },
           {
             "no" : 186,
-            "kr" : "쿠루미",
-            "en" : "Kurumi",
-            "jp" : "クルミ",
-            "zh_cn" : "胡桃",
-            "zh_tw" : "胡桃",
-            "illust" : 0,
-            "profile" : [1],
-            "momotalk" : false,
-            "open" : false
-          },
-          {
-            "no" : 187,
             "kr" : "오토기",
             "en" : "Otogi",
             "jp" : "オトギ",
@@ -2117,7 +2105,19 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open" : false
+            "open" : true
+          },
+          {
+            "no" : 187,
+            "kr" : "쿠루미",
+            "en" : "Kurumi",
+            "jp" : "クルミ",
+            "zh_cn" : "胡桃",
+            "zh_tw" : "胡桃",
+            "illust" : 0,
+            "profile" : [1],
+            "momotalk" : false,
+            "open" : true
           }
         ]
       }
