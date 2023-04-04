@@ -517,6 +517,13 @@
     "zh_cn" : "回话",
     "zh_tw" : "回話"
   },
+  "music_count" : {
+    "kr" : "곡 수",
+    "en" : "Music Count",
+    "jp" : "音楽数",
+    "zh_cn" : "音乐计数",
+    "zh_tw" : "音樂計數"
+  },
   "add_reply" : {
     "kr" : "답장추가",
     "en" : "Add Reply",
@@ -601,6 +608,27 @@
     "zh_cn" : "信息",
     "zh_tw" : "信息"
   },
+  "music" : {
+    "kr" : "뮤직",
+    "en" : "Music",
+    "jp" : "音楽",
+    "zh_cn" : "音乐",
+    "zh_tw" : "音樂"
+  },
+  "playlist" : {
+    "kr" : "플레이리스트",
+    "en" : "Playlist",
+    "jp" : "プレイリスト",
+    "zh_cn" : "播放列表",
+    "zh_tw" : "播放列表"
+  },
+  "player" : {
+    "kr" : "플레이어",
+    "en" : "Player",
+    "jp" : "プレイヤー",
+    "zh_cn" : "球员",
+    "zh_tw" : "球員"
+  },
   "go_relationship_event" : {
     "kr" : "의 인연스토리로",
     "en" : "'s relationship story",
@@ -684,6 +712,27 @@
     "jp" : "メッセージを選択してください。",
     "zh_cn" : "请选择信息。",
     "zh_tw" : "請選擇信息。"
+  },
+  "select_playlist" : {
+    "kr" : "플레이리스트를 선택해주세요.",
+    "en" : "Please select a playlist.",
+    "jp" : "プレイリストを選択してください。",
+    "zh_cn" : "请选择播放列表。",
+    "zh_tw" : "請選擇播放列表。"
+  },
+  "add_playlist" : {
+    "kr" : "플레이리스트 추가",
+    "en" : "Add Playlist",
+    "jp" : "プレイリストの追加",
+    "zh_cn" : "添加播放列表",
+    "zh_tw" : "添加播放列表"
+  },
+  "to_add_playlist" : {
+    "kr" : "추가할 플레이리스트 제목을 적어주세요.",
+    "en" : "Please write down the title of the playlist to add.",
+    "jp" : "追加するプレイリストのタイトルを書いてください。",
+    "zh_cn" : "请写下要添加的播放列表的标题。",
+    "zh_tw" : "請寫下要添加的播放列表的標題。"
   },
   "no_support" : {
     "kr" : "지원하지 않는 파일입니다.",
