@@ -727,6 +727,13 @@
     "zh_cn" : "添加播放列表",
     "zh_tw" : "添加播放列表"
   },
+  "add_music" : {
+    "kr" : "음악 추가",
+    "en" : "Add Music",
+    "jp" : "音楽の追加",
+    "zh_cn" : "添加音乐",
+    "zh_tw" : "添加音樂"
+  },
   "to_add_playlist" : {
     "kr" : "추가할 플레이리스트 제목을 적어주세요.",
     "en" : "Please write down the title of the playlist to add.",
