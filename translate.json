@@ -987,6 +987,20 @@
     "zh_cn" : "没有信息。",
     "zh_tw" : "沒有信息。"
   },
+  "no_playlist_comment" : {
+    "kr" : "플레이리스트가 없습니다.",
+    "en" : "There is No Playlist.",
+    "jp" : "プレイリストはありません。",
+    "zh_cn" : "没有播放列表。",
+    "zh_tw" : "沒有播放列表。"
+  },
+  "no_music_comment" : {
+    "kr" : "음악이 없습니다.",
+    "en" : "There is No Music.",
+    "jp" : "音楽はありません。",
+    "zh_cn" : "没有音乐。",
+    "zh_tw" : "沒有音樂。"
+  },
   "image_download" : {
     "kr" : "이미지가 다운로드 안 된 경우 해당 이미지를 다운받아주세요.",
     "en" : "If the image has not been downloaded, please download it.",
