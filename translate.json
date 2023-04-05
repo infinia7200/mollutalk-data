@@ -629,6 +629,13 @@
     "zh_cn" : "球员",
     "zh_tw" : "球員"
   },
+  "artist" : {
+    "kr" : "아티스트",
+    "en" : "Artist",
+    "jp" : "アーティスト",
+    "zh_cn" : "艺术家",
+    "zh_tw" : "藝術家"
+  },
   "go_relationship_event" : {
     "kr" : "의 인연스토리로",
     "en" : "'s relationship story",
