@@ -48,6 +48,13 @@
     "zh_cn" : "取消",
     "zh_tw" : "取消"
   },
+  "time" : {
+    "kr" : "시간",
+    "en" : "Time",
+    "jp" : "時間",
+    "zh_cn" : "时间",
+    "zh_tw" : "時間"
+  },
   "student" : {
     "kr" : "학생",
     "en" : "Student",
@@ -1028,6 +1035,13 @@
     "jp" : "検索してみてください。",
     "zh_cn" : "请搜索一下。",
     "zh_tw" : "請搜索一下。"
+  },
+  "time_comment" : {
+    "kr" : "시간을 입력해주세요.",
+    "en" : "Please enter a time.",
+    "jp" : "時間を入力してください。",
+    "zh_cn" : "请输入时间。",
+    "zh_tw" : "請輸入時間。"
   },
   "help_translation" : {
     "kr" : "번역을 도와주세요!",
