@@ -573,7 +573,7 @@
             "zh_cn" : "飞鸟马 时",
             "zh_tw" : "飛鳥馬 時",
             "illust" : 0,
-            "profile" : [1,2,3],
+            "profile" : [1,2,3,4],
             "momotalk" : false,
             "open" : true
           }
@@ -594,7 +594,7 @@
             "zh_cn" : "天童 爱丽丝",
             "zh_tw" : "天童 愛麗絲",
             "illust" : 0,
-            "profile" : [1,2],
+            "profile" : [1,2,3],
             "momotalk" : true,
             "open" : true
           },
@@ -618,7 +618,7 @@
             "zh_cn" : "才羽 桃井",
             "zh_tw" : "才羽 桃井",
             "illust" : 0,
-            "profile" : [1,2],
+            "profile" : [1,2,3],
             "momotalk" : true,
             "open" : true
           },
@@ -630,7 +630,7 @@
             "zh_cn" : "才羽 绿",
             "zh_tw" : "才羽 綠",
             "illust" : 0,
-            "profile" : [1,2],
+            "profile" : [1,2,3],
             "momotalk" : true,
             "open" : true
           },
@@ -642,7 +642,7 @@
             "zh_cn" : "花冈 柚子",
             "zh_tw" : "花岡 柚子",
             "illust" : 0,
-            "profile" : [1,2],
+            "profile" : [1,2,3],
             "momotalk" : true,
             "open" : true
           }
@@ -1522,11 +1522,11 @@
         ]
       },
       {
-        "kr" : "학생",
-        "en" : "characters",
-        "jp" : "生徒",
-        "zh_cn" : "学生",
-        "zh_tw" : "學生",
+        "kr" : "소속 불명",
+        "en" : "Unknown",
+        "jp" : "所属不明",
+        "zh_cn" : "所属不详",
+        "zh_tw" : "所屬不詳",
         "characters" : [
           {
             "no" : 95,
@@ -1729,11 +1729,11 @@
         ]
       },
       {
-        "kr" : "학생",
-        "en" : "characters",
-        "jp" : "生徒",
-        "zh_cn" : "学生",
-        "zh_tw" : "學生",
+        "kr" : "소속 불명",
+        "en" : "Unknown",
+        "jp" : "所属不明",
+        "zh_cn" : "所属不详",
+        "zh_tw" : "所屬不詳",
         "characters" : [
           {
             "no" : 96,
@@ -2365,27 +2365,6 @@
         ]
       },
       {
-        "kr" : "학생",
-        "en" : "characters",
-        "jp" : "生徒",
-        "zh_cn" : "学生",
-        "zh_tw" : "學生",
-        "characters" : [
-          {
-            "no" : 137,
-            "kr" : "하츠네-미쿠",
-            "en" : "Hatsune-Miku",
-            "jp" : "初音ミク",
-            "zh_cn" : "初音未来",
-            "zh_tw" : "初音未來",
-            "illust" : 0,
-            "profile" : [1,2],
-            "momotalk" : true,
-            "open" : true
-          }
-        ]
-      },
-      {
         "kr" : "게마트리아",
         "en" : "Gematria",
         "jp" : "ゲマトリア",
@@ -2918,6 +2897,18 @@
         "zh_tw" : "所屬不詳",
         "characters" : [
           {
+            "no" : 137,
+            "kr" : "하츠네-미쿠",
+            "en" : "Hatsune-Miku",
+            "jp" : "初音ミク",
+            "zh_cn" : "初音未来",
+            "zh_tw" : "初音未來",
+            "illust" : 0,
+            "profile" : [1,2],
+            "momotalk" : true,
+            "open" : true
+          },
+          {
             "no" : 166,
             "kr" : "칸나",
             "en" : "Kanna",
@@ -3022,6 +3013,18 @@
             "zh_tw" : "無名牧師",
             "illust" : 0,
             "profile" : [1],
+            "momotalk" : false,
+            "open" : true
+          },
+          {
+            "no" : 197,
+            "kr" : "아키라",
+            "en" : "Akira",
+            "jp" : "アキラ",
+            "zh_cn" : "阿基拉",
+            "zh_tw" : "阿基拉",
+            "illust" : 0,
+            "profile" : [1,2],
             "momotalk" : false,
             "open" : true
           }
