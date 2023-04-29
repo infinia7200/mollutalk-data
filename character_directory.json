@@ -1625,7 +1625,7 @@
             "illust" : 0,
             "profile" : [1],
             "momotalk" : false,
-            "open" : false
+            "open" : true
           }
         ]
       },
