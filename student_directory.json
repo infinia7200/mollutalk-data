@@ -660,8 +660,8 @@
             "kr" : "아케보시 히마리",
             "en" : "Akeboshi Himari",
             "jp" : "明星 ヒマリ",
-            "zh_cn" : "明星向日葵",
-            "zh_tw" : "明星向日葵",
+            "zh_cn" : "明星 向日葵",
+            "zh_tw" : "明星 向日葵",
             "illust" : 0,
             "profile" : [1,2],
             "momotalk" : true,
@@ -784,7 +784,7 @@
           {
             "no" : 176,
             "kr" : "리오",
-            "en" : "TsukaTsuki Rio",
+            "en" : "Tsukatsuki Rio",
             "jp" : "調月 リオ",
             "zh_cn" : "里奥",
             "zh_tw" : "里奧",
@@ -2457,7 +2457,7 @@
       {
         "kr" : "검은거북파",
         "en" : "Black Turtles",
-        "jp" : "クロガメ派",
+        "jp" : "黒亀組",
         "zh_cn" : "黑龟派",
         "zh_tw" : "黑龜派",
         "student" : [
@@ -2465,7 +2465,7 @@
             "no" : 144,
             "kr" : "오토마타",
             "en" : "Automata",
-            "jp" : "音俣",
+            "jp" : "オートマタ",
             "zh_cn" : "奥马塔",
             "zh_tw" : "奧馬塔",
             "illust" : 0,
@@ -2490,7 +2490,7 @@
       {
         "kr" : "불량배",
         "en" : "Thugs",
-        "jp" : "スケ番",
+        "jp" : "スケバン",
         "zh_cn" : "看门人",
         "zh_tw" : "看門人",
         "student" : [
@@ -2498,7 +2498,7 @@
             "no" : 146,
             "kr" : "불량배",
             "en" : "Thugs",
-            "jp" : "スケ番",
+            "jp" : "スケバン",
             "zh_cn" : "看门人",
             "zh_tw" : "看門人",
             "illust" : 0,
@@ -2878,7 +2878,7 @@
           {
             "no" : 164,
             "kr" : "코마카제 라브",
-            "en" : "Komakaje Labeu",
+            "en" : "Komakaze Rabu",
             "jp" : "河駒風 ラブ",
             "zh_cn" : "科马卡泽 拉夫",
             "zh_tw" : "科馬卡澤 拉夫",
