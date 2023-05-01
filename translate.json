@@ -48,6 +48,13 @@
     "zh_cn" : "取消",
     "zh_tw" : "取消"
   },
+  "time" : {
+    "kr" : "시간",
+    "en" : "Time",
+    "jp" : "時間",
+    "zh_cn" : "时间",
+    "zh_tw" : "時間"
+  },
   "student" : {
     "kr" : "학생",
     "en" : "Student",
@@ -229,6 +236,20 @@
     "jp" : "シリーズ",
     "zh_cn" : "系列",
     "zh_tw" : "系列"
+  },
+  "none_series" : {
+    "kr" : "시리즈 선택안함",
+    "en" : "None Series",
+    "jp" : "なし系列",
+    "zh_cn" : "无级数",
+    "zh_tw" : "無級數"
+  },
+  "add_series" : {
+    "kr" : "시리즈 추가",
+    "en" : "Add Series",
+    "jp" : "シリーズの追加",
+    "zh_cn" : "添加系列",
+    "zh_tw" : "添加系列"
   },
   "management" : {
     "kr" : "관리",
@@ -503,6 +524,13 @@
     "zh_cn" : "回话",
     "zh_tw" : "回話"
   },
+  "music_count" : {
+    "kr" : "곡 수",
+    "en" : "Music Count",
+    "jp" : "音楽数",
+    "zh_cn" : "音乐计数",
+    "zh_tw" : "音樂計數"
+  },
   "add_reply" : {
     "kr" : "답장추가",
     "en" : "Add Reply",
@@ -542,8 +570,8 @@
     "kr" : "인연 이벤트",
     "en" : "Relationship Event",
     "jp" : "絆イベント",
-    "zh_cn" : "纽带活动",
-    "zh_tw" : "紐帶活動"
+    "zh_cn" : "羁绊活动",
+    "zh_tw" : "羈絆活動"
   },
   "expected" : {
     "kr" : "예정",
@@ -587,12 +615,40 @@
     "zh_cn" : "信息",
     "zh_tw" : "信息"
   },
+  "music" : {
+    "kr" : "뮤직",
+    "en" : "Music",
+    "jp" : "音楽",
+    "zh_cn" : "音乐",
+    "zh_tw" : "音樂"
+  },
+  "playlist" : {
+    "kr" : "플레이리스트",
+    "en" : "Playlist",
+    "jp" : "プレイリスト",
+    "zh_cn" : "播放列表",
+    "zh_tw" : "播放列表"
+  },
+  "player" : {
+    "kr" : "플레이어",
+    "en" : "Player",
+    "jp" : "プレイヤー",
+    "zh_cn" : "球员",
+    "zh_tw" : "球員"
+  },
+  "artist" : {
+    "kr" : "아티스트",
+    "en" : "Artist",
+    "jp" : "アーティスト",
+    "zh_cn" : "艺术家",
+    "zh_tw" : "藝術家"
+  },
   "go_relationship_event" : {
     "kr" : "의 인연스토리로",
-    "en" : " of the relationship story",
+    "en" : "'s relationship story",
     "jp" : "の絆ストーリーへ",
-    "zh_cn" : "的纽带故事",
-    "zh_tw" : "的紐帶故事"
+    "zh_cn" : "的羁绊剧情",
+    "zh_tw" : "的羈絆劇情"
   },
   "ask_delete" : {
     "kr" : "정말로 삭제하시겠습니까?",
@@ -636,6 +692,13 @@
     "zh_cn" : "请输入标题。",
     "zh_tw" : "請輸入標題。"
   },
+  "series_title_comment" : {
+    "kr" : "새로운 시리즈 제목을 입력해주세요.",
+    "en" : "Please enter the new Series Title.",
+    "jp" : "新しいシリーズタイトルを入力してください。",
+    "zh_cn" : "请输入新的系列标题。",
+    "zh_tw" : "請輸入新的系列標題。"
+  },
   "nickName_comment" : {
     "kr" : "닉네임을 입력해주세요.",
     "en" : "Please enter the NickName.",
@@ -663,6 +726,34 @@
     "jp" : "メッセージを選択してください。",
     "zh_cn" : "请选择信息。",
     "zh_tw" : "請選擇信息。"
+  },
+  "select_playlist" : {
+    "kr" : "플레이리스트를 선택해주세요.",
+    "en" : "Please select a playlist.",
+    "jp" : "プレイリストを選択してください。",
+    "zh_cn" : "请选择播放列表。",
+    "zh_tw" : "請選擇播放列表。"
+  },
+  "add_playlist" : {
+    "kr" : "플레이리스트 추가",
+    "en" : "Add Playlist",
+    "jp" : "プレイリストの追加",
+    "zh_cn" : "添加播放列表",
+    "zh_tw" : "添加播放列表"
+  },
+  "add_music" : {
+    "kr" : "음악 추가",
+    "en" : "Add Music",
+    "jp" : "音楽の追加",
+    "zh_cn" : "添加音乐",
+    "zh_tw" : "添加音樂"
+  },
+  "to_add_playlist" : {
+    "kr" : "추가할 플레이리스트 제목을 적어주세요.",
+    "en" : "Please write down the title of the playlist to add.",
+    "jp" : "追加するプレイリストのタイトルを書いてください。",
+    "zh_cn" : "请写下要添加的播放列表的标题。",
+    "zh_tw" : "請寫下要添加的播放列表的標題。"
   },
   "no_support" : {
     "kr" : "지원하지 않는 파일입니다.",
@@ -917,11 +1008,53 @@
     "zh_cn" : "没有信息。",
     "zh_tw" : "沒有信息。"
   },
+  "no_playlist_comment" : {
+    "kr" : "플레이리스트가 없습니다.",
+    "en" : "There is No Playlist.",
+    "jp" : "プレイリストはありません。",
+    "zh_cn" : "没有播放列表。",
+    "zh_tw" : "沒有播放列表。"
+  },
+  "no_music_comment" : {
+    "kr" : "음악이 없습니다.",
+    "en" : "There is No Music.",
+    "jp" : "音楽はありません。",
+    "zh_cn" : "没有音乐。",
+    "zh_tw" : "沒有音樂。"
+  },
   "image_download" : {
     "kr" : "이미지가 다운로드 안 된 경우 해당 이미지를 다운받아주세요.",
     "en" : "If the image has not been downloaded, please download it.",
     "jp" : "画像がダウンロードされない場合は、表示された画像をダウンロードしてください。",
     "zh_cn" : "如果未下载图像，请下载该图像。",
     "zh_tw" : "如果未下載圖像，請下載該圖像。"
+  },
+  "filter_selectBox" : {
+    "kr" : "검색해보세요.",
+    "en" : "Search for it.",
+    "jp" : "検索してみてください。",
+    "zh_cn" : "请搜索一下。",
+    "zh_tw" : "請搜索一下。"
+  },
+  "time_comment" : {
+    "kr" : "시간을 입력해주세요.",
+    "en" : "Please enter a time.",
+    "jp" : "時間を入力してください。",
+    "zh_cn" : "请输入时间。",
+    "zh_tw" : "請輸入時間。"
+  },
+  "help_translation" : {
+    "kr" : "번역을 도와주세요!",
+    "en" : "Please help me translate!",
+    "jp" : "翻訳を手伝ってください！",
+    "zh_cn" : "请帮我翻译！",
+    "zh_tw" : "請幫我翻譯！"
+  },
+  "display_ads" : {
+    "kr" : "광고 자리입니다. (´;ω;｀)",
+    "en" : "It's a commercial spot. (´;ω;｀)",
+    "jp" : "広告の席です。 (´;ω;｀)",
+    "zh_cn" : "是广告位置。 (´;ω;｀)",
+    "zh_tw" : "是廣告位置。 (´;ω;｀)"
   }
 }
